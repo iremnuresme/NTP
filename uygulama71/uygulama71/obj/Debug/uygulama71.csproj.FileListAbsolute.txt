@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\bin\Debug\uygulama71.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\bin\Debug\uygulama71.exe
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\bin\Debug\uygulama71.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.exe
+C:\Users\H2O\Desktop\KORUMASIZ\192iremnureşme\ntp\uygulama71\uygulama71\obj\Debug\uygulama71.pdb
