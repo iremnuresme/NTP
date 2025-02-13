@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\bin\Debug\DersOrtalamaHesaplamaOrnek.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\bin\Debug\DersOrtalamaHesaplamaOrnek.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\bin\Debug\DersOrtalamaHesaplamaOrnek.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\DersOrtalamaHesaplamaOrnek\DersOrtalamaHesaplamaOrnek\obj\Debug\DersOrtalamaHesaplamaOrnek.pdb
