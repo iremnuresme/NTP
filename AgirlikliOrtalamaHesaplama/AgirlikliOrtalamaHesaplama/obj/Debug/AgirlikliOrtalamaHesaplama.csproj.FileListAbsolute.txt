@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\bin\Debug\AgirlikliOrtalamaHesaplama.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\bin\Debug\AgirlikliOrtalamaHesaplama.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\bin\Debug\AgirlikliOrtalamaHesaplama.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\AgirlikliOrtalamaHesaplama\AgirlikliOrtalamaHesaplama\obj\Debug\AgirlikliOrtalamaHesaplama.pdb
