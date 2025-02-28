@@ -47,28 +47,28 @@ namespace AgirlikliOrtalamaHesaplama
             for (int i = 1; i <= adet; i++)
             {
                 TextBox txt = new TextBox();
-                Label lbl = new Label();
+                //Label lbl = new Label();
 
-                flowLayoutPanel2.Controls.Add(lbl);
+                //flowLayoutPanel2.Controls.Add(lbl);
                 flowLayoutPanel2.Controls.Add(txt);
                 
 
-                lbl.Text = "Ders Saati";
-                txt.Width = 100;
-                lbl.Width = 90;
+                //lbl.Text = "Ders Saati";
+                txt.Width = 200;
+                //lbl.Width = 90;
             }
             for (int i = 1; i <= adet; i++)
             {
                 TextBox txt = new TextBox();
-                Label lbl = new Label();
+                //Label lbl = new Label();
 
-                flowLayoutPanel3.Controls.Add(lbl);
+                //flowLayoutPanel3.Controls.Add(lbl);
                 flowLayoutPanel3.Controls.Add(txt);
 
 
-                lbl.Text = "Ortalama";
-                txt.Width = 100;
-                lbl.Width = 90;
+                //lbl.Text = "Ortalama";
+                txt.Width = 200;
+                //lbl.Width = 90;
             }
 
 
@@ -76,7 +76,38 @@ namespace AgirlikliOrtalamaHesaplama
 
         private void button1_Click(object sender, EventArgs e)
         {
+            double toplamDers = 0;
+            double toplamAgirlik = 0;
+            double agirlikliOrtalama = 0;
+            int sayac = 0;
+            for(int i=0;i<flowLayoutPanel2.Controls.Count;i++)
+            {
+                TextBox txtDers = (TextBox)flowLayoutPanel2.Controls[i];
+                TextBox txtOrtalama = (TextBox)flowLayoutPanel3.Controls[i];
 
+
+
+                if (Convert.ToDouble(txtOrtalama.Text) < 50)
+                {
+                    sayac++;
+                }
+
+                toplamAgirlik += Convert.ToDouble(txtDers.Text) * Convert.ToDouble(txtOrtalama.Text);
+                toplamDers += Convert.ToDouble(txtDers.Text);
+            }
+
+            if (sayac != 0)
+            {
+                lblDurum.Text = $"{sayac} adet başarısız dersiniz var.";
+            }
+            else
+            {
+                lblDurum.Text = $"{sayac} adet başarısız dersiniz var.";
+            }
+
+
+            agirlikliOrtalama = toplamAgirlik / toplamDers;
+            lblAgirlikliOrtalama.Text = "Ağırlıklı Ortalamanız: " + Math.Round(agirlikliOrtalama,2);
         }
     }
 }
