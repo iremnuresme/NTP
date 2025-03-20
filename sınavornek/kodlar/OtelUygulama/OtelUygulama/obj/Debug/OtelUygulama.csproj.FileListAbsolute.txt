@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\bin\Debug\OtelUygulama.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\bin\Debug\OtelUygulama.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\bin\Debug\OtelUygulama.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\OtelUygulama\OtelUygulama\obj\Debug\OtelUygulama.pdb
